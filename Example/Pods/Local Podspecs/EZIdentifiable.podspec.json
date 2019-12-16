@@ -1,0 +1,22 @@
+{
+  "name": "EZIdentifiable",
+  "version": "0.1.0",
+  "summary": "A short description of EZIdentifiable.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yunxu6139@gmail.com/EZIdentifiable",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yunxu6139@gmail.com": "xuyun@ezbuy.com"
+  },
+  "source": {
+    "git": "https://github.com/yunxu6139@gmail.com/EZIdentifiable.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "EZIdentifiable/Classes/**/*"
+}

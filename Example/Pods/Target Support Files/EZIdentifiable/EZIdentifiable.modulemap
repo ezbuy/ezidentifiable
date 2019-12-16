@@ -1,0 +1,6 @@
+framework module EZIdentifiable {
+  umbrella header "EZIdentifiable-umbrella.h"
+
+  export *
+  module * { export * }
+}
