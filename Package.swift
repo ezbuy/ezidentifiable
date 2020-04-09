@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "EZIdentifiable",
+    name: "ezidentifiable",
     platforms: [
         .iOS(.v9)
     ],
