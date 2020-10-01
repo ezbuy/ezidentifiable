@@ -13,6 +13,8 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
+### Cocopods
+
 EZIdentifiable is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
@@ -20,9 +22,11 @@ it, simply add the following line to your Podfile:
 pod 'EZIdentifiable'
 ```
 
-## Author
+### Swift Package Manager
 
-yunxu6139@gmail.com, xuyun@ezbuy.com
+```swift
+.package(url: "https://github.com/ezbuy/ezidentifiable.git", from: "1.0.2")
+```
 
 ## License
 
